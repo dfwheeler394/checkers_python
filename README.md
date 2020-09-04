@@ -17,3 +17,14 @@ Specific Features of Game:
 
   - Save/Resume game
     - It's possible to save game to disk, using JSON
+    
+Requirements
+
+- Python 3
+    apt-get install python3
+    
+- Tkinter
+    apt-get install python3-tk
+    
+- Launch Game
+    python3 checkers.py
