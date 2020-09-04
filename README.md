@@ -1,8 +1,3 @@
-
-Save/Resume game
-It's possible to save the game and resume playing at a later date.
-
-
 Specific Features of Game:
 
 - Move Validation:
